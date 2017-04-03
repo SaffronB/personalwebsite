@@ -1,0 +1,42 @@
+html {
+background-color: #313848;
+
+}
+
+.home-button{
+	position: absolute;
+	right: 110px;
+	top: 10px;
+	background: #D2D2D2;
+	border: 1px dotted #355997;
+
+	}
+
+.background-image {
+	padding-top: 50px;
+	padding-left: 400px;
+	
+}
+
+.background-image img {
+	width: 60%;
+	height:0.10%;
+}
+
+
+
+.boxed {
+	margin-top: 20px;
+	margin-left: 400px;
+  	width: 38%;
+  	border: 1px solid #545281 ;
+  	padding: 40px 40px 40px 40px;
+
+  	background-color: #D2D2D2;
+}
+
+
+
+
+
+	
